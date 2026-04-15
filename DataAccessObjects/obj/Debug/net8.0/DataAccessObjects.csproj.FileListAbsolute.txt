@@ -1,0 +1,16 @@
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\bin\Debug\net8.0\BussinessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.sourcelink.json
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
