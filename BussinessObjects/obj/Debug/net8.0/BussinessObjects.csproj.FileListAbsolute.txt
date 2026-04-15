@@ -1,0 +1,15 @@
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\bin\Debug\net8.0\BussinessObjects.runtimeconfig.json
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.AssemblyReference.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.sourcelink.json
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\BussinessObjects.genruntimeconfig.cache
+C:\Users\Hi\OneDrive - MSFT\Documents\SwimmingPoolManagementMVC\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll
